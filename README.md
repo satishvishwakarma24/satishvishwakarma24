@@ -1,71 +1,40 @@
-# Project Overview
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/satish-vishwakarma)
 
-Welcome to the **[Project Name]**! 🎉 This project is designed to [describe the purpose and objectives of the project].
+![](https://komarev.com/ghpvc/?username=satishvishwakarma24&style=for-the-badge)
 
-## Features 🚀
-- Feature 1: [Describe feature]
-- Feature 2: [Describe feature]
-- Feature 3: [Describe feature]
+</br>
 
-## Tech Stack 🛠️
-- **Frontend:** [Tech used]
-- **Backend:** [Tech used]
-- **Database:** [Tech used]
+## Hi 👋 I'm Satish Vishwakarma  
+### I'm a Flutter Developer, MERN Stack Developer, Unity Developer and Tech Enthusiast.
 
-## Installation 💻
-To get started with this project, follow these steps:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/satishvishwakarma24/satishvishwakarma24.git
-   ```
-2. Navigate into the project directory:
-   ```bash
-   cd satishvishwakarma24
-   ```
-3. Install the dependencies:
-   ```bash
-   npm install
-   ```
+🚀 Currently working as a Node.js Developer (API Development)  
+📱 Built 6+ live projects (Healthcare, Enterprise, Tools)  
+🎮 Working on Unity 3D projects  
 
-## Usage 📖
-To run the project, execute:
-```bash
-npm start
-```
+</br>
 
-## Project Structure 📁
-```
-/satishvishwakarma24
-├── src
-│   ├── components
-│   ├── styles
-│   └── utils
-├── public
-└── README.md
-```
+## 🎯 My Skills
 
-## Contribution Guidelines 🤝
-We welcome contributions! Please follow these steps:
-1. Fork the repository.
-2. Create your feature branch: `git checkout -b feature/AmazingFeature`
-3. Commit your changes: `git commit -m 'Add some AmazingFeature'`
-4. Push to the branch: `git push origin feature/AmazingFeature`
-5. Open a pull request.
+[<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />](https://flutter.dev/)&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />](https://reactjs.org/)&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />](https://nodejs.org/)&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />](https://expressjs.com/)&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />](https://www.mongodb.com/)&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />](https://www.mysql.com/)&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />](https://www.javascript.com/)&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />](https://dart.dev/)&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />](https://firebase.google.com/)&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />](https://unity.com/)&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />](https://git-scm.com/)&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/)&nbsp;&nbsp;
 
-## Roadmap 🗺️
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
+</br>
+</br>
 
-## Badges 🏆
-![GitHub issues](https://img.shields.io/github/issues/satishvishwakarma24/satishvishwakarma24)
-![GitHub forks](https://img.shields.io/github/forks/satishvishwakarma24/satishvishwakarma24)
-![GitHub stars](https://img.shields.io/github/stars/satishvishwakarma24/satishvishwakarma24)
+## 📊 GitHub Stats
 
-### Contact 📫
-For any inquiries, please contact:
-- **Your Name**
-- **Email:** yourname@example.com
+![](https://github-readme-stats.vercel.app/api?username=satishvishwakarma24&show_icons=true&theme=default)
 
----
-**Last Updated:** 2026-04-27 07:34:59 (UTC)
+![](https://github-readme-streak-stats.herokuapp.com/?user=satishvishwakarma24)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satishvishwakarma24&layout=compact)](https://github.com/satishvishwakarma24)
